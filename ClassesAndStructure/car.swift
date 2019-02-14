@@ -8,7 +8,7 @@
 
 import Foundation
 
-internal enum Color { // same project
+internal enum Color  { // same project
     case Red
     case Blue
     case black
